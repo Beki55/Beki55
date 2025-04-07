@@ -1,17 +1,15 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Bereket Melese 👋
 
-Welcome to my GitHub profile! I'm a **Full Stack Developer** and **Software Engineer** specializing in **React**, **Vue**, **Node.js**, and modern web technologies. I have a passion for building scalable, high-performance applications, and I thrive in solving complex technical problems.
+Welcome to my GitHub profile! I'm a **Full Stack Developer** and **Web Developer** currently working as an **Admin Web Developer** at **TinaMart Business PLC**. I specialize in building web applications, creating seamless user experiences, and working with both frontend and backend technologies.
 
 ## 🚀 About Me
 
-I am highly skilled in both **frontend** and **backend** technologies, with a focus on creating seamless and responsive user interfaces, efficient backends, and full-stack solutions. I love learning new technologies and contributing to open-source projects.
-
 - 🌍 Location: [Your Location]
-- 👨‍💻  Currently working as a Full Stack Developer at [Company Name] (if applicable)
-- 🔭 I’m currently working on [project you're working on]
+- 👨‍💻  Currently working as an **Admin Web Developer** at **TinaMart Business PLC**
+- 🔭 I’m currently working on **developing scalable web applications and improving business processes**
 - 🌱 I’m learning **Docker** and **GraphQL**
-- 💬 Ask me about **React**, **Vue**, **Node.js**, **TypeScript**, **GraphQL**, and more.
-- 📫 How to reach me: [Your Email](mailto:your.email@example.com)
+- 💬 Ask me about **React**, **Node.js**, **Vue.js**, **PostgreSQL**, **GraphQL**, and more.
+- 📫 How to reach me: [bereket21bnm@gmail.com](mailto:bereket21bnm@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
@@ -37,7 +35,6 @@ I am highly skilled in both **frontend** and **backend** technologies, with a fo
 
 - **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 - **GitHub** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-- **Docker** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Testing & CI/CD
 
@@ -45,16 +42,10 @@ I am highly skilled in both **frontend** and **backend** technologies, with a fo
 - **Mocha** ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white)
 - **Travis CI** ![Travis CI](https://img.shields.io/badge/TravisCI-3EAAAF?style=flat&logo=travis&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true)
-
 ## 🌍 Social Links
 
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
-- **Twitter**: [Twitter Profile](https://twitter.com/your-twitter)
-- **Dev.to**: [Dev.to Profile](https://dev.to/your-devto)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/bereket-melese-bb290a277/)
+- **Email**: [bereket21bnm@gmail.com](mailto:bereket21bnm@gmail.com)
 
 ## 📚 Latest Blog Posts
 
