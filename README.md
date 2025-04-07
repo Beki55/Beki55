@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** and **Web Developer
 
 ## 🚀 About Me
 
-- 🌍 Location: [Your Location]
 - 👨‍💻  Currently working as an **Admin Web Developer** at **TinaMart Business PLC**
 - 🔭 I’m currently working on **developing scalable web applications and improving business processes**
 - 🌱 I’m learning **Docker** and **GraphQL**
