@@ -35,11 +35,11 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** and **Web Developer
 - **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 - **GitHub** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-// ### Testing & CI/CD
+### Testing & CI/CD
 
-// - **Jest** ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-// - **Mocha** ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white)
-// - **Travis CI** ![Travis CI](https://img.shields.io/badge/TravisCI-3EAAAF?style=flat&logo=travis&logoColor=white)
+- **Jest** ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+- **Mocha** ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white)
+- **Travis CI** ![Travis CI](https://img.shields.io/badge/TravisCI-3EAAAF?style=flat&logo=travis&logoColor=white)
 
 ## 🌍 Social Links
 
